@@ -1,0 +1,38 @@
+p{ 
+    color:black;
+}
+
+h1{
+   border: 10px solid black;
+   text-align:center;
+   font-size:30px;
+}
+
+a{
+   color: black;
+   background: white;
+   text-align:center;
+   font-size:25px;
+}
+
+h1{
+    border: 1px solid black;
+    outline: 5px dotted black;
+}
+
+p{
+    border: 1px solid black;
+    text-transform: capitalize;
+    text-align:justify;
+    margin:50px;
+    margin-right:75px;
+    margin-left:75px;
+    margin-top:-10px;
+    margin-bottom:-10px;
+    padding:35px;
+    font-size:25px;
+}
+
+img{
+    align-items:center;
+}
